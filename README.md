@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Unity, C#**
 
-- 👨‍💻 All of my projects are available at [[https://jet-airedale-058.notion.site/Portfolio-1edd92329762801296c9cae73d393d6e](https://saramsaram.notion.site/r?source=copy_link)]([https://jet-airedale-058.notion.site/Portfolio-1edd92329762801296c9cae73d393d6e](https://saramsaram.notion.site/r?source=copy_link))
+- 👨‍💻 All of my projects are available at [[https://jet-airedale-058.notion.site/Portfolio-1edd92329762801296c9cae73d393d6e](https://saramsaram.notion.site/r?source=copy_link)]
 
 - 💬 Ask me about **Unity and C# game development**
 
