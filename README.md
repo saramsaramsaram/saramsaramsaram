@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saramsaramsaram&label=Profile%20views&color=0e75b6&style=flat" alt="saramsaramsaram" /> </p>
 
-- 🔭 I’m currently working on [Project-TheLastHeir](https://github.com/Team-TheLastHeir)
+- I’m currently working on [Project-TheLastHeir](https://github.com/Team-TheLastHeir)
 
-- 🌱 I’m currently learning **Unity, C#**
+- I’m currently learning **Unity, C#**
 
-- 👨‍💻 All of my projects are available at [[https://jet-airedale-058.notion.site/Portfolio-1edd92329762801296c9cae73d393d6e](https://saramsaram.notion.site/r?source=copy_link)]
-
-- 💬 Ask me about **Unity and C# game development**
+- All of my projects are available at [[https://jet-airedale-058.notion.site/Portfolio-1edd92329762801296c9cae73d393d6e](https://saramsaram.notion.site/r?source=copy_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">leejuhwan00000@gmail.com
