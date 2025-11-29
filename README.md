@@ -1,6 +1,4 @@
-<h1 align="left">Hi 👋, I'm LeeJuHwan, Game Developer</h1>
-<br>
-<h3 align="left">Unity developer from Korea</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">leejuhwan00000@gmail.com
