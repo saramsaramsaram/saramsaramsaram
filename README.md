@@ -1,3 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saramsaramsaram&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=saramsaramsaram&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramsaramsaram&layout=compact)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saramsaramsaram&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saramsaramsaram&theme=tokyonight&utcOffset=9)
+
+![Profile Views](https://komarev.com/ghpvc/?username=saramsaramsaram&style=for-the-badge)
